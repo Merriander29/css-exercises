@@ -1,4 +1,6 @@
 div {
+    text-align: center;
+    font-size: 200%;
     color:whitesmoke;
-    background-color: olive;
+    background-color: red;
 }
